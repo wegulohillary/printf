@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * print_b - Print a number in binay.
- * @arg: Number to be converted to binary and printed.
+ * @arg: Number to be converted to binary then printed
  * Return: Number of bits printed.
  **/
 int print_b(va_list arg)

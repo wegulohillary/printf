@@ -36,7 +36,7 @@ return (frm[i].f);
 }
 /**
  * _printf - a function that produces
- * output according to a format
+ * output according to given format
  * @format: character string
  * Return: 0 success
  */

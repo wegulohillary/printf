@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * print_r - Print a string in reverse.
+ * print_r - Print string in reverse
  * @arg: String address.
  * Return: integer.
  */

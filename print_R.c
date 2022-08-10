@@ -2,7 +2,7 @@
 #include <stdarg.h>
 #include <stdlib.h>
 /**
- * print_R - Prints a string in rot13.
+ * print_R - Prints a string in rot13
  * @arg: String address.
  * Return: integer.
  */

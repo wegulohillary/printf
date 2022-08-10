@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_x - print in hexadecimal function
- *@arg: integer to convert
+ *@arg: integer to convert to hex
  *Return: printed number
  */
 int print_x(va_list arg)

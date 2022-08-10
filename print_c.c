@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * print_c - Print a character.
+ * print_c - Print single character
  * @arg: Char to be printed.
  * Return: On success 1.
  * On error -1.
